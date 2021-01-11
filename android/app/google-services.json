@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "833834872833",
+    "firebase_url": "https://collection-69eb5.firebaseio.com",
+    "project_id": "collection-69eb5",
+    "storage_bucket": "collection-69eb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833834872833:android:77de11f6f17b5f4eb5d000",
+        "android_client_info": {
+          "package_name": "com.example.s_s_refrigerationandinfra_data"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833834872833-imgrebj127gq1r7gu0ja4u4sr64rfhp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9l_qZ3O88R54t0MI4AnsnXTHAG3VDVKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833834872833-imgrebj127gq1r7gu0ja4u4sr64rfhp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
